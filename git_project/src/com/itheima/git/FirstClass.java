@@ -8,4 +8,9 @@ public class FirstClass {
         System.out.println("是真的胖");
         System.out.println("是真的真的胖");
     }
+
+    public void test(){
+        int i = 1;
+        i += 10;
+    }
 }
